@@ -38,7 +38,7 @@ const AppHead = () => {
         name="viewport"
         content="width=device-width, initial-scale=1, shrink-to-fit=no"
       />
-      <title>HueHoppers Admin Panel</title>
+      <title>Inventory Management System</title>
     </Helmet>
   );
 };
