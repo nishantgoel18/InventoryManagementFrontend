@@ -3,8 +3,8 @@ import { SOMETHING_WENT_WRONG } from "../../utils";
 export const PRODUCT_TYPES = ["TShirt", "Romper", "Hoodie"];
 
 // Host
-export const HOST = "http://127.0.0.1:8000/";
-export const IMAGE_HOST = "http://localhost:8000";
+export const HOST = "https://inventorymanagement-wqb4.onrender.com/";
+export const IMAGE_HOST = "https://inventorymanagement-wqb4.onrender.com/";
 
 const BASE = HOST + "api";
 
